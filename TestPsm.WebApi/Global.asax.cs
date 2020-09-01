@@ -1,4 +1,4 @@
-﻿using System.Configuration;
+using System.Configuration;
 using System.Web;
 using System.Web.Http;
 using System.Web.Mvc;

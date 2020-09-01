@@ -1,4 +1,4 @@
-﻿using MetaShare.Common.Core.Services;
+using MetaShare.Common.Core.Services;
 using MetaShare.Common.Core.Daos;
 using MetaShare.Common.Core.Entities;
 using TestPsm.Daos.Mocks;

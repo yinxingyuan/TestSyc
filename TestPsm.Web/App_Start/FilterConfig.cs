@@ -1,4 +1,4 @@
-﻿using System.Web.Mvc;
+using System.Web.Mvc;
 using SSO.Utilities;
 /*add customized code between this region*/
 /*add customized code between this region*/

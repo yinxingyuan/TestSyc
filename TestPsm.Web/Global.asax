@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="TestPsm.Web.MvcApplication" Language="C#" %>
+<%@ Application Codebehind="Global.asax.cs" Inherits="TestPsm.Web.MvcApplication" Language="C#" %>

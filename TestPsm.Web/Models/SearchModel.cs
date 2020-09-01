@@ -1,4 +1,4 @@
-﻿using MetaShare.Common.Core.Entities;
+using MetaShare.Common.Core.Entities;
 /*add customized code between this region*/
 /*add customized code between this region*/
 

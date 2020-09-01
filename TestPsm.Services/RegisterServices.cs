@@ -1,4 +1,4 @@
-﻿using MetaShare.Common.Core.CommonService;
+using MetaShare.Common.Core.CommonService;
 using TestPsm.Services.Interfaces;
 /*add customized code between this region*/
 /*add customized code between this region*/

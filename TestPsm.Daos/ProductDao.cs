@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Data;
 using MetaShare.Common.Core.Daos;
 using TestPsm.Daos.Interfaces;

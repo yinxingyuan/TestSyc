@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using MetaShare.Common.Core.Entities;
 using MetaShare.Common.Core.Services;
 using TestPsm.Entities;

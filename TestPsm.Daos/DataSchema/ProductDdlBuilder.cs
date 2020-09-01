@@ -1,4 +1,4 @@
-﻿using MetaShare.Common.Core.DataSchema;
+using MetaShare.Common.Core.DataSchema;
 /*add customized code between this region*/
 /*add customized code between this region*/
 

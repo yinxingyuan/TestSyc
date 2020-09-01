@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using MetaShare.Common.Core.Daos;
 using MetaShare.Common.Core.DataSchema;

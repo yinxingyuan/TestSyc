@@ -1,4 +1,4 @@
-﻿using System.Web.Optimization;/*add customized code between this region*/
+using System.Web.Optimization;/*add customized code between this region*/
 /*add customized code between this region*/
 
 namespace TestPsm.Web

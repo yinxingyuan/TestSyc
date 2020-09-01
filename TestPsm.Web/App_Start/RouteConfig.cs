@@ -1,4 +1,4 @@
-﻿using System.Web.Mvc;
+using System.Web.Mvc;
 using System.Web.Routing;/*add customized code between this region*/
 /*add customized code between this region*/
 

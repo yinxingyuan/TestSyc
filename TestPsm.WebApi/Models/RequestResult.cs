@@ -1,4 +1,4 @@
-﻿/*add customized code between this region*/
+/*add customized code between this region*/
 /*add customized code between this region*/
 namespace TestPsm.WebApi.Models
 {

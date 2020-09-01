@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using MetaShare.Common.Core.Daos;
 using TestPsm.Daos.Interfaces;
 /*add customized code between this region*/
